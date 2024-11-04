@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNhaCungCap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NhaCungCap>
+    <id_ncc>NCC01</id_ncc>
+    <ten_ncc>ABC Corporation</ten_ncc>
+    <dia_chi_ncc>Tan Binh</dia_chi_ncc>
+  </NhaCungCap>
+  <NhaCungCap>
+    <id_ncc>NCC02</id_ncc>
+    <ten_ncc>XYZ Corporation</ten_ncc>
+    <dia_chi_ncc>Binh Chanh</dia_chi_ncc>
+  </NhaCungCap>
+  <NhaCungCap>
+    <id_ncc>NCC03</id_ncc>
+    <ten_ncc>DEF Corporation</ten_ncc>
+    <dia_chi_ncc>Binh Duong</dia_chi_ncc>
+  </NhaCungCap>
+  <NhaCungCap>
+    <id_ncc>NCC04</id_ncc>
+    <ten_ncc>SBOYS</ten_ncc>
+    <dia_chi_ncc>TP.HCM</dia_chi_ncc>
+  </NhaCungCap>
+</ArrayOfNhaCungCap>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCuaHang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CuaHang>
+    <id_ch>CH01</id_ch>
+    <ten_ch>Cua hang 1</ten_ch>
+    <dia_chi_ch>Binh Thanh</dia_chi_ch>
+  </CuaHang>
+  <CuaHang>
+    <id_ch>CH02</id_ch>
+    <ten_ch>Cua hang 2</ten_ch>
+    <dia_chi_ch>Quan 3</dia_chi_ch>
+  </CuaHang>
+  <CuaHang>
+    <id_ch>CH03</id_ch>
+    <ten_ch>Cua hang 3</ten_ch>
+    <dia_chi_ch>Quan 10</dia_chi_ch>
+  </CuaHang>
+</ArrayOfCuaHang>

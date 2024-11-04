@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHangHoa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HangHoa xsi:type="DienTu">
+    <id>DT01</id>
+    <ten_hang>Quạt máy</ten_hang>
+    <so_luong>23</so_luong>
+    <don_gia>150000</don_gia>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT02</id>
+    <ten_hang>Nồi cơm điện</ten_hang>
+    <so_luong>17</so_luong>
+    <don_gia>250000</don_gia>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD01</id>
+    <ten_hang>Chảo chống dính</ten_hang>
+    <so_luong>15</so_luong>
+    <don_gia>100000</don_gia>
+  </HangHoa>
+  <HangHoa xsi:type="GiaDung">
+    <id>GD02</id>
+    <ten_hang>Bàn ăn</ten_hang>
+    <so_luong>7</so_luong>
+    <don_gia>500000</don_gia>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP01</id>
+    <ten_hang>Gà nguyên con</ten_hang>
+    <so_luong>12</so_luong>
+    <don_gia>80000</don_gia>
+  </HangHoa>
+  <HangHoa xsi:type="ThucPham">
+    <id>TP02</id>
+    <ten_hang>Nước ngọt</ten_hang>
+    <so_luong>25</so_luong>
+    <don_gia>10000</don_gia>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT03</id>
+    <ten_hang>hi</ten_hang>
+    <so_luong>0</so_luong>
+    <don_gia>100000</don_gia>
+    <img>C:\Users\ducng\Downloads\download.jpg</img>
+  </HangHoa>
+  <HangHoa xsi:type="DienTu">
+    <id>DT03</id>
+    <ten_hang>hi</ten_hang>
+    <so_luong>0</so_luong>
+    <don_gia>100000</don_gia>
+    <img>C:\Users\ducng\Downloads\download.jpg</img>
+  </HangHoa>
+</ArrayOfHangHoa>
